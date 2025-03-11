@@ -9,4 +9,3 @@ This project is a C++ library for performing various mathematical operations, in
 - **Statistics and Probability**: Mean, median, variance, standard deviation, binomial and Poisson probabilities.
 - **Vector Operations**: Vector addition, subtraction, dot product, cross product, normalization, and more.
 
-## Repository Structure
